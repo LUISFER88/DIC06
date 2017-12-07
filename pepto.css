@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', monospace;
+    background-color: lightpink;
+}
+
+
+.head{
+    background-color: hotpink;
+}
+
+.texto{
+    
+    
+}
+
+.imagen{
+    float: left;
+    clear: 
+}
+.clearfix::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+footer{
+    background-color: palevioletred;
+    align-items: flex-end;
+    text-align: center;
+    width: auto;
+    height: 50px;
+    margin-bottom: 50px;
+    
+}
